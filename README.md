@@ -1,8 +1,12 @@
-# gridCSS
+#gridCSS
 
-A simple CSS grid system for mobile friendly web applications. 
+A simple CSS grid system for mobile friendly web applications.
 
-##Class Syntax
+##Example
+
+![grid-row picture](https://cloud.githubusercontent.com/assets/8270120/10570477/3ee2b1d2-75e9-11e5-9266-454923763105.png)
+
+##Usage
 
 ```
 <div class="row">
