@@ -5,15 +5,18 @@ A simple CSS grid system for mobile friendly web applications.
 Row: `row`
 
 Column Sizes: 
--`sm`
--`md`
--`lg`
+
+  -`sm`: 768px and up
+  -`md`: 992px and up
+  -`lg`: 1200px and up
 
 Widths: `1 - 12` (inclusive)
 
 Offsets: `1 - 11` (inclusive)
 
 Sample Syntax (this creates a column of size "medium" with a width of 3 offset by a size "medium" width 4 column): `<div class="col-md-3 col-md-offset-4`
+
+
 
 ##Demo
 
