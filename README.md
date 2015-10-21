@@ -1,14 +1,13 @@
 #gridCSS
 
-A simple CSS grid system for mobile friendly web applications.
-
+An easily customizable grid system that won't interfere with your styles.
 Row: `row`
 
 Column Sizes: 
 
-  -`sm`: 768px and up
-  -`md`: 992px and up
-  -`lg`: 1200px and up
+- `sm`: 768px and up
+- `md`: 992px and up
+- `lg`: 1200px and up
 
 Widths: `1 - 12` (inclusive)
 
