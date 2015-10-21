@@ -20,7 +20,7 @@ Sample Syntax (this creates a column of size "medium" with a width of 3 offset b
 
 ##Demo
 
-![grid-row picture](https://cloud.githubusercontent.com/assets/8270120/10570477/3ee2b1d2-75e9-11e5-9266-454923763105.png)
+![grid-row picture](https://cloud.githubusercontent.com/assets/8270120/10627398/b2362d64-776d-11e5-9543-5c8125dd8784.png)
 
 ##Usage
 
