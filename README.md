@@ -54,5 +54,3 @@ You can also offset using similar syntax: `col-lg-offset-3`. That is creating a 
 ### License
 
 [MIT license](https://github.com/dhg/Skeleton/blob/master/LICENSE.md)
-
-😊
