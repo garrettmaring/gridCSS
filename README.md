@@ -16,13 +16,11 @@ Offsets: `1 - 11` (inclusive)
 
 Sample Syntax (this creates a column of size "medium" with a width of 3 offset by a size "medium" width 4 column): `<div class="col-md-3 col-md-offset-4`
 
-
-
-##Demo
+## Demo
 
 ![grid-row picture](https://cloud.githubusercontent.com/assets/8270120/10627398/b2362d64-776d-11e5-9543-5c8125dd8784.png)
 
-##Usage
+## Usage
 
 You create a row which will be structed as any number of columns with a total column width of 12. You do this by adding the class `row`. 
 
@@ -30,8 +28,7 @@ You then add column classes to indicate their width. The widths range from 1-12 
 
 You can also offset using similar syntax: `col-lg-offset-3`. That is creating a column with an equivalent width to a large-width-3 column but is using that to push the next column to the right.
 
-
-##Sample Code
+## Sample Code
 
 ```
 <div class="row">
@@ -54,7 +51,7 @@ You can also offset using similar syntax: `col-lg-offset-3`. That is creating a 
 </div>
 ```
 
-##License
+### License
 
 [MIT license](https://github.com/dhg/Skeleton/blob/master/LICENSE.md)
 
