@@ -1,4 +1,4 @@
-#gridCSS
+# gridCSS
 
 An easily customizable grid system that won't interfere with your styles.
 
